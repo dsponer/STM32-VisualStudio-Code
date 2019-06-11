@@ -9,3 +9,6 @@
 2. OpenOCD сервер не включился. Пришлось добавить:
   "cortex-debug.openocdPath": "F:/VSARM/GNU MCU Eclipse/OpenOCD/0.10.0-12-20190422-2015/bin/openocd.exe",
 3. Сервер выдал timeout error
+
+Все фигня используем platformio
+
